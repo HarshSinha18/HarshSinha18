@@ -4,7 +4,7 @@
     <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="50%" height="10%" ></a>
 </p>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshSinha18&theme=blue-green_icons=true)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshSinha18&theme=blue-greenicons=true)
 
 
 
