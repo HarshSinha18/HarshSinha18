@@ -6,6 +6,6 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshSinha18&theme=vision-friendly-dark&show_icons=true)#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSinha18)](https://github.com/HarshSinha18/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshSinha18&repo=github-readme-stats)](https://github.com/HarshSinha18/github-readme-stats)
+
 
 
