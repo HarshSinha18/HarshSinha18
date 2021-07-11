@@ -7,4 +7,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HarshSinha18)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=YourRepositoryName)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSinha18=compact)](https://github.com/HarshSinha18/github-readme-stats)
+
 
