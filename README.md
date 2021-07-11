@@ -1,6 +1,6 @@
-### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+<pre>
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+<pre>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HarshSinha18)
 
