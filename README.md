@@ -4,7 +4,7 @@
     <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="50%" height="10%" ></a>
 </p>
 
-### About me :eyes :
+### About me :eyes:
 
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 
