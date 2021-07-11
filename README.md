@@ -1,7 +1,5 @@
-<pre>
-### Hi there
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
-<pre>
+
+### Hi there 
 <p align="center">
     <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="50%" height="10%" ></a>
 </p>
