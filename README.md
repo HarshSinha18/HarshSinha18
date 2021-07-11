@@ -3,6 +3,13 @@
 <p align="center">
     <a href="https://cristianmarint.github.io/DEPORCO/"><img src="https://imgur.com/nuQbn48.gif" width="50%" height="10%" ></a>
 </p>
+### About me :eyes:
+
+👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
+
+:smiley: Member of **[CODEX](https://github.com/codex-iter)**
+
+:smiley: Member of **[Coding Wizard ITER](https://github.com/CodingWizardITER)**
 
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshSinha18&theme=vision-friendly-dark&show_icons=true)#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSinha18)](https://github.com/HarshSinha18/github-readme-stats)
