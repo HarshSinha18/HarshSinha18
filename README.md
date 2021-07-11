@@ -5,6 +5,7 @@
 </p>
 ### About me :eyes:
 
+
 👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 
 :smiley: Member of **[CODEX](https://github.com/codex-iter)**
