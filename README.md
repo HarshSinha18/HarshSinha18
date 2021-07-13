@@ -30,7 +30,7 @@
 <a href="https://github.com/HarshSinha18"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
 <a href="https://twitter.com/harsh_sinha__18"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a>
 <a href="https://www.instagram.com/harsh.sinha.18/"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
-
+<a href="https://m.facebook.com/100006896941164/"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaphleamrit&show_icons=true&locale=en" alt="kaphleamrit" /></p>
 
