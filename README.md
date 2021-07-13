@@ -33,8 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaphleamrit&show_icons=true&locale=en" alt="kaphleamrit" /></p>
 <a href="https://www.instagram.com/harsh.sinha.18/"><img src="https://f0.pngfuel.com/png/605/658/black-and-white-instagram-logo-logo-black-and-white-instagram-logo-png-clip-art-thumbnail.png" width="32px" height="32px"></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaphleamrit&show_icons=true&locale=en" alt="kaphleamrit" /></p>
-
 
 
 
